@@ -1,0 +1,18 @@
+Home landing 
+// large
+text-[48px] leading-[56px] 
+// small
+text-[28px] leading-[34px]
+
+
+
+course deatails
+// large
+text-[36px] md:leading-[44px]
+// small
+text-[26px] leading-[36px]
+
+
+
+//default 
+text-[15px] leading-[21px]
